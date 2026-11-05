@@ -2,6 +2,21 @@
 
 The source code for Peter's portfolio. This starts from an existing prototype from Codex, with cursor-following eyes, a mouth-to-dreamscape scroll transition, project dialogs, responsive styling, and motion controls.
 
+## Open the website preview
+
+**[Open portfolio preview ↗](https://perkhetive.github.io/portfolio/)**
+
+This link works after GitHub Pages is enabled. It opens a public hosted preview of the latest successful deployment from `main`; updates can take a few minutes after a commit. Refresh the page to see the deployed changes.
+
+### One-time activation
+
+1. Open [this repository's Pages settings](https://github.com/perkhetive/portfolio/settings/pages).
+2. Under **Build and deployment → Source**, select **Deploy from a branch**.
+3. Choose **main** and **/ (root)**, then click **Save**.
+4. Wait for GitHub to display the published site link.
+
+No domain purchase or local installation is needed. This preview is public. For a page that stays on your own computer, use the local preview instructions below.
+
 ## Preview on your computer
 
 Download this repository using **Code → Download ZIP**, extract it, then open `index.html` in a browser. No installation or build is required.
