@@ -1,6 +1,6 @@
 # Peter Luo — Portfolio
 
-The source code for Peter's playful dreamscape portfolio. This starts from the existing “A curious little universe” prototype, with cursor-following eyes, a mouth-to-dreamscape scroll transition, project dialogs, responsive styling, and motion controls.
+The source code for Peter's portfolio. This starts from an existing prototype from Codex, with cursor-following eyes, a mouth-to-dreamscape scroll transition, project dialogs, responsive styling, and motion controls.
 
 ## Preview on your computer
 
